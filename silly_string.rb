@@ -51,11 +51,11 @@
 # puts sentence
 
 
-your_favorite_word = "moist"
-puts "my favorite word is #{your_favorite_word}"
-puts "I'M NOT SHOUTING".downcase
-puts "supercalifragilisticexpialidocious".length
-
+#your_favorite_word = "moist"
+#puts "my favorite word is #{your_favorite_word}"
+#puts "I'M NOT SHOUTING".downcase
+#puts "supercalifragilisticexpialidocious".length
+puts "wow + mom"
 
 
 
