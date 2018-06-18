@@ -55,7 +55,8 @@
 #puts "my favorite word is #{your_favorite_word}"
 #puts "I'M NOT SHOUTING".downcase
 #puts "supercalifragilisticexpialidocious".length
-puts "wow + mom"
+#puts "wow + mom"
+puts "i really like programming".
 
 
 
